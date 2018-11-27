@@ -1,25 +1,25 @@
 {
   "Products": [
     {
-          title: 'Product Title',
-          img: 'p13.jpg',
-          stars: 4,
-          originalPrice: 100.00,
-          curPrice: 70.00
+          "title": "Product Title",
+          "img": "p13.jpg",
+          "stars": 4,
+          "originalPrice": 100.00,
+          "curPrice": 70.00
         },
         {
-          title: 'Product Title',
-          img: 'p19.jpg',
-          stars: 2,
-          originalPrice: 800.00,
-          curPrice: 700.00
+          "title": "Product Title",
+          "img": "p19.jpg",
+          "stars": 2,
+          "originalPrice": 800.00,
+          "curPrice": 700.00
         },
         {
-          title: 'Product Title',
-          img: 'p18.jpg',
-          stars: 1,
-          originalPrice: 900.00,
-          curPrice: 600.00
+          "title": "Product Title",
+          "img": "p18.jpg",
+          "stars": 1,
+          "originalPrice": 900.00,
+          "curPrice": 600.00
         }
   ],
   "comments": [
