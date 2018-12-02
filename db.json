@@ -20,6 +20,13 @@
           "stars": 1,
           "originalPrice": 900.00,
           "curPrice": 600.00
+        },
+        {
+          "title": "Product kjjhh",
+          "img": "p18.jpg",
+          "stars": 5,
+          "originalPrice": 900.00,
+          "curPrice": 600.00
         }
   ],
   "comments": [
